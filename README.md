@@ -2,21 +2,16 @@
 
 ### I'm Shravya Challa.
 
-* A Business Analytics Graduate Student at Carl H. Lindner College of Business, University of Cincinnati.
-* Experienced PYTHON developer, currently looking for job opportunities as Business Analyst, Data Analyst and Python Developer.
+* Data Engineer at The Climate Corporation
+* A Business Analytics Graduate from Carl H. Lindner College of Business, University of Cincinnati.
 
 #### 👯 Tech Stack
 
 *	**Programming & Scripting:** PYTHON, R, SQL, C, C++, SAS
-*	**Visualization & Reporting:** Tableau, SAS Visual Analytics, Google Cloud Platform
+*	**Visualization & Reporting:** Qlik, Tableau, SAS Visual Analytics, Google Cloud Platform
 *	**ML / AI / DL:** Matplotlib, Sklearn, Seaborn, Pandas, Pyplot, NumPy, SciPy, tidyverse, dplyr
+*	**AWS:** Sagemaker, S3, QuickSight, SES, CloudWatch
 *	**Other Tools & Methodologies:** Linux distributions, Git, Perforce, Jira, Scrum, Agile Methodologies
-
-#### 🔭 Things I'm currently working on:
-* Statistical modeling of Wine Data (R)
-* Data Mining of Iris Dataset (R and Python)
-* Multivariate Analysis (R and SAS)
-* Simulation models (Python)
 
 #### 🔭 My Previous projects
 * [Vaccine Prioritization across 74 GAVI classified countries](https://github.com/ShravyaChalla/Vaccine-Prioritization)
